@@ -1,4 +1,4 @@
-# Trusted Ally - Open Source Community Platform
+# Trusted Ally - Together Towards a Brighter Future
 
 <div align="center">
   <img src="https://mj-ahmad.github.io/mja2025/img/logo.png" alt="Trusted Ally Logo" width="200"/>
@@ -25,7 +25,7 @@ Trusted Ally is an open-source platform dedicated to various social initiatives 
 
 ## 📋 Project Structure
 
-\`\`\`
+```
 trusted-ally-website/
 ├── app/                      # Next.js app directory
 │   ├── about-us/             # About us page
@@ -69,7 +69,7 @@ trusted-ally-website/
 ├── postcss.config.js        # PostCSS configuration
 ├── tailwind.config.js       # Tailwind CSS configuration
 └── tsconfig.json            # TypeScript configuration
-\`\`\`
+```
 
 ## 🛠️ Tech Stack
 
@@ -90,34 +90,34 @@ trusted-ally-website/
 ### Installation
 
 1. Clone the repository:
-   \`\`\`bash
+   ```
    git clone https://github.com/MJ-AHMAD/trusted-ally-website.git
    cd trusted-ally-website
-   \`\`\`
+   ```
 
 2. Install dependencies:
-   \`\`\`bash
+   ```
    npm install
    # or
    yarn install
-   \`\`\`
+   ```
 
 3. Set up environment variables:
    Create a `.env.local` file in the root directory with the following variables:
-   \`\`\`
+   ```
    SMTP_HOST=your_smtp_host
    SMTP_PORT=your_smtp_port
    SMTP_SECURE=true_or_false
    SMTP_USER=your_email
    SMTP_PASS=your_password
-   \`\`\`
+   ```
 
 4. Run the development server:
-   \`\`\`bash
+   ```
    npm run dev
    # or
    yarn dev
-   \`\`\`
+   ```
 
 5. Open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
 
