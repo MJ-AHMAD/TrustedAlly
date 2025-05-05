@@ -8,6 +8,7 @@
   [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
   [![GitHub Sponsors](https://img.shields.io/badge/GitHub-Sponsor-EA4AAA)](https://github.com/sponsors/MJ-AHMAD)
+  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K21EK2ML)
 </div>
 
 ## 🌟 Overview
@@ -146,6 +147,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Trusted Ally is supported by our generous sponsors. If you'd like to support our work, please consider 
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-MJ--AHMAD-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/MJ-AHMAD)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K21EK2ML)
 
 ## 📞 Contact
 
