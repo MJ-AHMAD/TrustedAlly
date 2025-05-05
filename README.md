@@ -1,7 +1,7 @@
-# Trusted Ally - Together Towards a Brighter Future
-
 <div align="center">
-  <img src="https://mj-ahmad.github.io/mja2025/img/logo.png" alt="Trusted Ally Logo" width="200"/>
+  <img src="https://mj-ahmad.github.io/mja2025/img/logo.png" alt="Trusted Ally Logo" width="150"/>
+  <h1>Trusted Ally</h1> 
+  <h2>Together Towards a Brighter Future</h2>
   <h3>Building a brighter future through education, empowerment, and sustainable development</h3>
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -143,7 +143,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 💖 Sponsors
 
-Trusted Ally is supported by our generous sponsors. If you'd like to support our work, please consider [becoming a sponsor](https://github.com/sponsors/MJ-AHMAD).
+Trusted Ally is supported by our generous sponsors. If you'd like to support our work, please consider 
+
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-MJ--AHMAD-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/MJ-AHMAD)
 
 ## 📞 Contact
 
